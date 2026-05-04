@@ -165,7 +165,7 @@ def main():
     system = VotingSystem()
 
     while True:
-        print("\n Blockchain voting system )
+        print(" Blockchain voting system. ")
         print("1. Add Candidate")
         print("2. Add Voter")
         print("3. Cast Vote")
