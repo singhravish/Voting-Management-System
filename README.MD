@@ -19,7 +19,6 @@ python3 "import voting system.py"
 
 ##  Output
 
-```
  Blockchain voting system. 
 1. Add Candidate
 2. Add Voter
