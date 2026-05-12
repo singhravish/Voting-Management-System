@@ -22,7 +22,7 @@
 6. Exit
 Enter your choice: 1
 Enter Candidate ID: 1
-Enter Candidate Name: Alice
+Enter Candidate Name: suraj
 Candidate added successfully.
  Blockchain voting system. 
 1. Add Candidate
@@ -33,7 +33,7 @@ Candidate added successfully.
 6. Exit
 Enter your choice: 2
 Enter Voter ID: 1
-Enter Voter Name: Bob
+Enter Voter Name: mohit
 Voter added successfully.
  Blockchain voting system. 
 1. Add Candidate
