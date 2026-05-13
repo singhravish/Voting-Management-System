@@ -17,14 +17,15 @@ python voting_system.py
 5. Validate Chain
 6. Exit
 
-## First Output Screenshot Value :
+## First & Second Output Screenshot Value :
 ![image Alt](https://github.com/singhravish/Voting-Management-System/blob/c90734d3bfa9c5d281c706d0651ac7555a3c0e53/Add%20voter.png)
 
-## Second Output Screenshot Value :
-
 ## Third Output Screenshot Value :
+![Image Alt](https://github.com/singhravish/Voting-Management-System/blob/d09a8c2e56914865559967b43103bc56cfac57f3/Cast%20voter.png)
 
 ## Fourth Output Screenshot Value :
+![Image Alt](https://github.com/singhravish/Voting-Management-System/blob/d09a8c2e56914865559967b43103bc56cfac57f3/Print%20blockchain.png)
 
 ## Fifty Output Screenshot Value :
+[!Image Alt](https://github.com/singhravish/Voting-Management-System/blob/d09a8c2e56914865559967b43103bc56cfac57f3/Validate%20chain.png)
 
