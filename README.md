@@ -47,3 +47,8 @@ See the `Output screenshort/` directory for example outputs:
 - **Hash Algorithm**: SHA-256
 - **Language**: Python 3
 - **Dependencies**: hashlib, json (built-in modules)
+
+## Requirements
+
+- Python 3.x
+- No external dependencies required
