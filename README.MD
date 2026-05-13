@@ -16,6 +16,7 @@ Run the script from the repository folder:
 python3 "import voting system.py"
 
 
-##  Output
+##  Output for Add Candidate
 
+https://github.com/singhravish/Voting-Management-System-/edit/main/README.MD#:~:text=Add%20voter.png-,AddCandiate,-.png
 
