@@ -27,5 +27,5 @@ python voting_system.py
 ![Image Alt](https://github.com/singhravish/Voting-Management-System/blob/d09a8c2e56914865559967b43103bc56cfac57f3/Print%20blockchain.png)
 
 ## Fifty Output Screenshot Value :
-[!Image Alt](https://github.com/singhravish/Voting-Management-System/blob/d09a8c2e56914865559967b43103bc56cfac57f3/Validate%20chain.png)
+![Image Alt](https://github.com/singhravish/Voting-Management-System/blob/d09a8c2e56914865559967b43103bc56cfac57f3/Validate%20chain.png)
 
