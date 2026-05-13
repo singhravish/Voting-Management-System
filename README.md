@@ -41,14 +41,5 @@ See the `Output screenshort/` directory for example outputs:
 - Cast voter.png
 - Print blockchain.png
 - Validate chain.png
+![image Alt](https://github.com/singhravish/Voting-Management-System/blob/c90734d3bfa9c5d281c706d0651ac7555a3c0e53/Add%20voter.png)
 
-## Technical Details
-
-- **Hash Algorithm**: SHA-256
-- **Language**: Python 3
-- **Dependencies**: hashlib, json (built-in modules)
-
-## Requirements
-
-- Python 3.x
-- No external dependencies required
