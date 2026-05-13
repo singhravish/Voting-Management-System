@@ -59,11 +59,11 @@ class Blockchain:
             current = self.chain[i]
             previous = self.chain[i - 1]
 
-         
+            # Verify current block hash
             if current.hash != current.calculate_hash():
                 return False
 
-           
+            # Verify hash chain continuity
             if current.previous_hash != previous.hash:
                 return False
 
