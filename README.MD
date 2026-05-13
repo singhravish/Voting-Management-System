@@ -1,4 +1,3 @@
-# Blockchain Voting System
 A menu driven console app for Add Voter.
 
 ## input
@@ -18,4 +17,5 @@ python3 "import voting system.py"
 
 
 ##  Output
+
 
