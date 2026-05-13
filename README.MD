@@ -18,5 +18,4 @@ python3 "import voting system.py"
 
 ##  Output for Add Candidate
 
-https://github.com/singhravish/Voting-Management-System-/edit/main/README.MD#:~:text=Add%20voter.png-,AddCandiate,-.png
-
+https://github.com/singhravish/Voting-Management-System-/blob/02652ed200a6c984886c4e63be26f161e9bef316/AddCandiate.png
